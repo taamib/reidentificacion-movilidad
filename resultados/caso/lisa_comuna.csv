@@ -1,0 +1,45 @@
+comuna_gadm,personas,tasa_enlace,cluster,p_sim_local
+EstaciónCentral,318,0.0849056603773584,Alto-Alto,0.011
+Independencia,182,0.1043956043956044,Alto-Alto,0.008
+QuintaNormal,237,0.1012658227848101,Alto-Alto,0.005
+Recoleta,289,0.1314878892733564,Alto-Alto,0.011
+LaReina,217,0.0737327188940092,Bajo-Alto,0.04
+Buin,217,0.0046082949308755,Bajo-Bajo,0.022
+CaleradeTango,104,0.0192307692307692,Bajo-Bajo,0.037
+IsladeMaipo,101,0.0,Bajo-Bajo,0.001
+Paine,163,0.0122699386503067,Bajo-Bajo,0.008
+Peñaflor,180,0.0277777777777777,Bajo-Bajo,0.014
+SanBernardo,620,0.0483870967741935,Bajo-Bajo,0.03
+Talagante,188,0.0106382978723404,Bajo-Bajo,0.001
+Cerrillos,198,0.0808080808080808,No significativo,0.293
+CerroNavia,303,0.1419141914191419,No significativo,0.055
+Colina,350,0.0114285714285714,No significativo,0.176
+Conchalí,297,0.1245791245791245,No significativo,0.11
+ElBosque,238,0.0798319327731092,No significativo,0.25
+Huechuraba,227,0.0881057268722467,No significativo,0.423
+LaCisterna,206,0.0679611650485436,No significativo,0.202
+LaFlorida,883,0.1109852774631936,No significativo,0.144
+LaGranja,188,0.0691489361702127,No significativo,0.233
+LaPintana,322,0.0993788819875776,No significativo,0.458
+Lampa,249,0.0200803212851405,No significativo,0.201
+LasCondes,1096,0.0948905109489051,No significativo,0.216
+LoBarnechea,378,0.0634920634920634,No significativo,0.294
+LoEspejo,136,0.0294117647058823,No significativo,0.484
+LoPrado,115,0.1565217391304348,No significativo,0.064
+Macul,350,0.0942857142857142,No significativo,0.07
+Maipú,1177,0.1104502973661852,No significativo,0.157
+PadreHurtado,175,0.0514285714285714,No significativo,0.118
+PedroAguirreCerda,205,0.0780487804878048,No significativo,0.366
+Peñalolén,590,0.1101694915254237,No significativo,0.212
+Pirque,109,0.055045871559633,No significativo,0.051
+Providencia,830,0.1325301204819277,No significativo,0.08
+Pudahuel,574,0.0923344947735191,No significativo,0.337
+PuenteAlto,1164,0.1013745704467354,No significativo,0.185
+Quilicura,569,0.0790861159929701,No significativo,0.264
+Renca,268,0.0746268656716417,No significativo,0.062
+SanJoaquín,223,0.0896860986547085,No significativo,0.282
+SanMiguel,337,0.0919881305637982,No significativo,0.231
+SanRamón,145,0.0689655172413793,No significativo,0.391
+Santiago,1222,0.1497545008183306,No significativo,0.075
+Vitacura,340,0.0794117647058823,No significativo,0.211
+Ñuñoa,681,0.1145374449339207,No significativo,0.171

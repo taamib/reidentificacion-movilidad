@@ -1,0 +1,6 @@
+min_usuarios,n_hexagonos,n_en_moran,moran_I,p_sim,significativo
+20,183,176,0.322,0.001,True
+30,158,153,0.247,0.001,True
+50,119,116,0.113,0.028,True
+80,83,81,0.092,0.101,False
+100,57,54,0.069,0.208,False

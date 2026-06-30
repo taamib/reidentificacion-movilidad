@@ -1,0 +1,35 @@
+{
+  "fecha_corrida": "2026-09-05T21:05:07",
+  "n_poblacion": 22343,
+  "n_poblacion_activa": 20282,
+  "n_pares": 51118294,
+  "n_pares_fuertes": 312478,
+  "n_favoritas": 2254,
+  "n_enlaces": 1660,
+  "tasa_enlace": 0.0743,
+  "tasa_enlace_activa": 0.0818,
+  "por_atributo": {
+    "comuna_gadm": {
+      "n": 17138,
+      "tasa_enlace": 0.092
+    },
+    "cuartil": {
+      "n": 22343,
+      "tasa_enlace": 0.0743
+    }
+  },
+  "n_dias": 7,
+  "fechas": [
+    "2023-11-01",
+    "2023-11-02",
+    "2023-11-03",
+    "2023-11-04",
+    "2023-11-05",
+    "2023-11-06",
+    "2023-11-07"
+  ],
+  "min_dias": 3,
+  "radio_m": 200,
+  "ventana_min": 5,
+  "segundos": 141.5
+}
