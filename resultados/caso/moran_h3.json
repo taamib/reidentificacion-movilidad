@@ -1,0 +1,12 @@
+{
+  "moran_I": 0.004,
+  "p_sim": 0.41,
+  "n_hexagonos_mapa": 119,
+  "n_hexagonos_moran": 116,
+  "n_hexagonos_aislados": 3,
+  "resolucion_h3": 7,
+  "min_usuarios": 50,
+  "n_hogares_rm_asignacion_unica": 17138,
+  "n_hogares_excluidos": 1594,
+  "escala": "hexagono_h3"
+}

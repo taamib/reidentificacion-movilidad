@@ -1,0 +1,7 @@
+{
+  "moran_I": 0.543,
+  "p_sim": 0.001,
+  "n_comunas": 44,
+  "min_usuarios": 100,
+  "escala": "comuna"
+}

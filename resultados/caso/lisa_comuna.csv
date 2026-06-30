@@ -1,0 +1,45 @@
+comuna_gadm,personas,tasa_enlace,cluster,p_sim_local
+Conchalí,297,0.1111111111111111,Alto-Alto,0.044
+EstaciónCentral,318,0.0974842767295597,Alto-Alto,0.008
+LoEspejo,136,0.125,Alto-Alto,0.019
+QuintaNormal,237,0.1012658227848101,Alto-Alto,0.034
+Recoleta,289,0.1107266435986159,Alto-Alto,0.044
+SanJoaquín,223,0.0941704035874439,Alto-Alto,0.04
+SanMiguel,337,0.1186943620178041,Alto-Alto,0.014
+Santiago,1222,0.1112929623567921,Alto-Alto,0.009
+LaCisterna,206,0.0825242718446602,Bajo-Alto,0.025
+Renca,268,0.085820895522388,Bajo-Alto,0.036
+Buin,217,0.0184331797235023,Bajo-Bajo,0.021
+CaleradeTango,104,0.0288461538461538,Bajo-Bajo,0.027
+IsladeMaipo,101,0.0198019801980198,Bajo-Bajo,0.004
+Paine,163,0.0122699386503067,Bajo-Bajo,0.009
+Peñaflor,180,0.0166666666666666,Bajo-Bajo,0.01
+Pirque,109,0.055045871559633,Bajo-Bajo,0.047
+SanBernardo,620,0.0790322580645161,Bajo-Bajo,0.045
+Talagante,188,0.0053191489361702,Bajo-Bajo,0.007
+Cerrillos,198,0.1111111111111111,No significativo,0.172
+CerroNavia,303,0.1254125412541254,No significativo,0.265
+Colina,350,0.0085714285714285,No significativo,0.19
+ElBosque,238,0.1008403361344537,No significativo,0.376
+Huechuraba,227,0.105726872246696,No significativo,0.364
+Independencia,182,0.1373626373626373,No significativo,0.107
+LaFlorida,883,0.1200453001132502,No significativo,0.168
+LaGranja,188,0.1276595744680851,No significativo,0.098
+LaPintana,322,0.0962732919254658,No significativo,0.118
+LaReina,217,0.1013824884792626,No significativo,0.374
+Lampa,249,0.0080321285140562,No significativo,0.204
+LasCondes,1096,0.083941605839416,No significativo,0.461
+LoBarnechea,378,0.074074074074074,No significativo,0.186
+LoPrado,115,0.1043478260869565,No significativo,0.152
+Macul,350,0.1,No significativo,0.274
+Maipú,1177,0.1129991503823279,No significativo,0.316
+PadreHurtado,175,0.0571428571428571,No significativo,0.08
+PedroAguirreCerda,205,0.1560975609756097,No significativo,0.062
+Peñalolén,590,0.0779661016949152,No significativo,0.244
+Providencia,830,0.1060240963855421,No significativo,0.245
+Pudahuel,574,0.1010452961672473,No significativo,0.446
+PuenteAlto,1164,0.1013745704467354,No significativo,0.228
+Quilicura,569,0.101933216168717,No significativo,0.123
+SanRamón,145,0.096551724137931,No significativo,0.151
+Vitacura,340,0.0823529411764705,No significativo,0.389
+Ñuñoa,681,0.105726872246696,No significativo,0.255

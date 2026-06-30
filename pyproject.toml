@@ -1,0 +1,27 @@
+[project]
+name = "reid"
+version = "0.1.0"
+description = "Framework para evaluar la factibilidad de re-identificación entre dos fuentes de movilidad seudonimizadas, aplicado al cruce de telefonía móvil (CDR) y transporte público (Bip) en Santiago."
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "numpy",
+    "scipy",
+    "scikit-learn",
+    "geopandas",
+    "h3",
+    "shapely",
+    "pyproj",
+    "libpysal",
+    "esda",
+    "openpyxl",
+    "pyarrow",
+    "matplotlib",
+]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["reid*"]

@@ -1,14 +1,41 @@
+# Datos: no se versionan ni los insumos ni los intermedios pesados
 data/
-outputs/
-*.parquet
+trabajo/
 *.gz
 *.xlsx
+
+# Solo se versionan los resultados del caso. Validacion y calibracion quedan fuera
+# mientras esa parte del repositorio no este lista para entregar.
+resultados/validacion/
+resultados/calibracion/
+graficos/azar_umbral_dias.py
+graficos/sensibilidad_dias.py
+graficos/cascada_temporal.py
+graficos/optimalidad_radio_ventana.py
+figuras/azar_umbral_dias.png
+figuras/sensibilidad_dias.png
+figuras/cascada_temporal.png
+figuras/barrido_*.png
+figuras/evaluacion_cdr.png
+figuras/optimalidad_*.png
+figuras/comparacion_metodos_*.png
+
+# Parquet solo se versiona el de resultados/caso (mutuos.parquet)
+*.parquet
+!resultados/caso/*.parquet
+
+notebooks/
+build_justificaciones.py
+
 __pycache__/
 *.pyc
+*.egg-info/
 .ipynb_checkpoints/
-build_caracterizacion.py
-build_resumen.py
-propuesta_ajustada.md
-figuras/
-.vscode/
 .venv/
+.vscode/
+
+# el paquete instalable
+reid.egg-info/
+
+PENDIENTES_INFORME.md
+validacion/

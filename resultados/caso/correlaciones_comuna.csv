@@ -1,0 +1,11 @@
+variable_1,variable_2,spearman_r,p_valor,n_comunas
+tasa_enlace,usuarios,0.216,0.1594,44
+tasa_enlace,poblacion,0.344,0.0221,44
+tasa_enlace,penetracion,-0.194,0.207,44
+tasa_enlace,pobreza,0.023,0.883,44
+usuarios,poblacion,0.871,0.0,44
+usuarios,penetracion,0.24,0.1159,44
+usuarios,pobreza,-0.449,0.0022,44
+poblacion,penetracion,-0.16,0.3,44
+poblacion,pobreza,-0.158,0.3066,44
+penetracion,pobreza,-0.63,0.0,44
